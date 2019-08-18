@@ -1,0 +1,67 @@
+.header_logo {
+  margin: 20px 0  0 10px;
+}
+
+.header_right {
+  float: right;
+  margin: 20px 20px 0 0;
+}
+
+.header_title {
+  font-family: 'Lexend Mega', sans-serif;
+  color: #9a1a9a94;
+}
+
+.header_info {
+  color: #716f6f;
+}
+
+.big_image {
+  max-width: 100%;
+}
+
+.project_heading {
+  padding: 30px 10px 10px 20px;
+  color: #716f6f;
+}
+
+.project_img {
+  max-width: 100%;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.project_name {
+  text-transform: capitalize;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.project_link {
+  text-decoration: none;
+  color: #9a1a9a94;
+}
+
+section {
+  margin-top: 30px;
+}
+header,
+nav,
+footer,
+section,
+article,
+div {
+  box-sizing: border-box;
+}
+
+@media all and (max-width: 550px) {
+  .header_right {
+    display: block;
+  }
+  .header_title {
+    font-family: 'Livvic', sans-serif;
+  }
+}
+
