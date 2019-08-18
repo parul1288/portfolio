@@ -1,6 +1,6 @@
-#Udacity FrontEnd Nanodegree Program
+# Udacity FrontEnd Nanodegree Program
 
-##Portfolio Site
+## Portfolio Site
 
 ### How to run it locally
 
